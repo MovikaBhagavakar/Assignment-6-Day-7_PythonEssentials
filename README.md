@@ -1,1 +1,3 @@
-# Assignment-3-Day-4_PythonEssentials
+# Assignment-6-Day-7_PythonEssentials
+Name: Movika Bhagavakar
+Email: movikabh@gmail.com
